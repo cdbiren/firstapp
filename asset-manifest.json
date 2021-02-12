@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/birensapp/static/css/main.5ccda4cb.chunk.css",
+    "main.js": "/github.io/birensapp/static/js/main.fe4bdc32.chunk.js",
+    "main.js.map": "/github.io/birensapp/static/js/main.fe4bdc32.chunk.js.map",
+    "runtime-main.js": "/github.io/birensapp/static/js/runtime-main.1d8c69a1.js",
+    "runtime-main.js.map": "/github.io/birensapp/static/js/runtime-main.1d8c69a1.js.map",
+    "static/js/2.8f9622ec.chunk.js": "/github.io/birensapp/static/js/2.8f9622ec.chunk.js",
+    "static/js/2.8f9622ec.chunk.js.map": "/github.io/birensapp/static/js/2.8f9622ec.chunk.js.map",
+    "index.html": "/github.io/birensapp/index.html",
+    "static/css/main.5ccda4cb.chunk.css.map": "/github.io/birensapp/static/css/main.5ccda4cb.chunk.css.map",
+    "static/js/2.8f9622ec.chunk.js.LICENSE.txt": "/github.io/birensapp/static/js/2.8f9622ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d8c69a1.js",
+    "static/js/2.8f9622ec.chunk.js",
+    "static/css/main.5ccda4cb.chunk.css",
+    "static/js/main.fe4bdc32.chunk.js"
+  ]
+}
